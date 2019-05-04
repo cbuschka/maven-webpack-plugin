@@ -1,6 +1,5 @@
 # maven-webpack-plugin
 
-[on npmjs](https://www.npmjs.com/package/maven-webpack-plugin)
 [![npm version](https://badge.fury.io/js/maven-webpack-plugin.svg)](https://badge.fury.io/js/maven-webpack-plugin)
 [![downloads](https://img.shields.io/npm/dm/maven-webpack-plugin.svg?style=flat-square)](https://www.npmjs.com/package/maven-webpack-plugin)
 
