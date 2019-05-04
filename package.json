@@ -4,6 +4,7 @@
   "description": "Webpack plugin that calls maven",
   "main": "src/index.js",
   "scripts": {
+    "test": "exit 0"
   },
   "engines": {
     "node": ">=6.11.5"
