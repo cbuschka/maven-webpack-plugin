@@ -1,0 +1,31 @@
+{
+  "name": "maven-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Webpack plugin that calls maven",
+  "main": "src/index.js",
+  "scripts": {
+  },
+  "engines": {
+    "node": ">=6.11.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cbuschka/maven-webpack-plugin.git"
+  },
+  "keywords": [
+    "maven",
+    "version",
+    "plugin",
+    "webpack"
+  ],
+  "author": "Cornelius Buschka",
+  "license": "Apache-2.0",
+  "licenses": [ {
+    "type": "Apache-2.0",
+    "url": "http://www.apache.org/licenses/LICENSE-2.0"
+  } ],
+  "bugs": {
+    "url": "https://github.com/cbuschka/maven-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/cbuschka/maven-webpack-plugin"
+}
