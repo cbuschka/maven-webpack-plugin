@@ -1,6 +1,6 @@
 # maven-webpack-plugin
 
-[![Build Status](https://travis-ci.org/cbuschka/maven-webpack-plugin.svg)](https://travis-ci.org/cbuschka/maven-webpack-plugin)
+[![Build Status](https://travis-ci.org/cbuschka/maven-webpack-plugin.svg?branch=master)](https://travis-ci.org/cbuschka/maven-webpack-plugin)
 [![npm version](https://badge.fury.io/js/maven-webpack-plugin.svg)](https://badge.fury.io/js/maven-webpack-plugin)
 [![downloads](https://img.shields.io/npm/dm/maven-webpack-plugin.svg?style=flat-square)](https://www.npmjs.com/package/maven-webpack-plugin)
 
