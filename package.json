@@ -4,10 +4,10 @@
   "description": "Webpack plugin that calls maven",
   "main": "src/index.js",
   "scripts": {
-    "test": "exit 0"
+    "test": "node ./node_modules/eslint/bin/eslint src/*.js"
   },
   "engines": {
-    "node": ">=6.11.5"
+    "node": ">=8.10.0"
   },
   "repository": {
     "type": "git",
@@ -30,5 +30,13 @@
   "bugs": {
     "url": "https://github.com/cbuschka/maven-webpack-plugin/issues"
   },
-  "homepage": "https://github.com/cbuschka/maven-webpack-plugin"
+  "homepage": "https://github.com/cbuschka/maven-webpack-plugin",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.17.2",
+    "eslint-plugin-node": "^9.0.1",
+    "eslint-plugin-promise": "^4.1.1",
+    "eslint-plugin-standard": "^4.0.0"
+  }
 }
